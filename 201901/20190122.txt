@@ -3,4 +3,4 @@
 今日任务：
 1.背单词10个
 border,transition,comrade,coil,specialise,tilt,watchful,voucher,tram,consequently
-2.做1道算法题
+2.做1道算法题（287）
