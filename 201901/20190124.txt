@@ -3,4 +3,4 @@
 今日任务：
 1.背单词10个
 handicup,relevant,Antarctic,aspire,haircut,propulsion,candle,hinge,extensive,childhood
-2.做1道算法题
+2.做1道算法题(33)
