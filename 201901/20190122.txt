@@ -1,6 +1,0 @@
-﻿2019/01/22 天晴 杭州 今天好暖和-1 - 12好像
-昨天啊，我去运动了，超级累。但是运动完所有的不开心都消失了，又觉得运动还挺好。
-今日任务：
-1.背单词10个
-border,transition,comrade,coil,specialise,tilt,watchful,voucher,tram,consequently
-2.做1道算法题（287）
