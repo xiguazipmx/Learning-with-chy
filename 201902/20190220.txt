@@ -1,0 +1,6 @@
+2019/02/20 下雨呀 杭州 不知道，风好大，冷
+平淡无奇的一天，不过还挺开心。今天的算法题目还有非递归的方法我正在测试，感觉这一类的题目我有感觉了，很棒。
+今日任务：
+1.背单词15个
+assault,lawful,violet,prisoner,corresponding,ammunition,miserable,prey,equivalent,lighting,intellect,gauge,sovlet,aggreement,dominate
+2.做1道算法题(529)
